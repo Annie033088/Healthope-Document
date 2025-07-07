@@ -1,7 +1,7 @@
 發票規格
 財政部說明：https://www.einvoice.nat.gov.tw/static/ptl/ein_upload/attachments/1479449792874_0.6(20161115).pdf
 綠界發票內容：https://www.ecpay.com.tw/Announcement/DetailAnnouncement?nID=3197
-綠界技術文件：https://developers.ecpay.com.tw/?p=2866
+綠界技術文件：https://developers.ecpay.com.tw/?p=2866		https://developers.ecpay.com.tw/?p=15076#elementor-toc__heading-anchor-0
 
 二維碼規定
 二維條碼應以 QR Code 記載，數量二個，以左右並列、水平(上緣)對齊、大小一致方式 配置，編碼區長寬各 1.5 公分以上，其周圍應至少各保留 0.2 公分 (±10%)以上之空白處。

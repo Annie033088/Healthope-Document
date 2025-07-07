@@ -1,0 +1,85 @@
+帳號密碼
+0987654323
+1. sa
+acc：
+PB7m9JsNaRK0
+pwd：
+wf9MqJAPT0wG168MeVbR
+
+2. 一般管理員 
+acc：
+qwp59felp484
+pwd：
+dasdl78gsd9dd48
+
+3. 業務 
+acc：
+disabledAdmin456
+
+4. 無
+acc：
+adminTester001
+
+5. 一般管理員
+acc：
+adminAlphaUser35
+
+6. 課程管理
+acc：
+mainAlphaUser71
+
+7. 教練管理
+acc：
+tempCoachAdminX5
+
+8. 會計
+acc：
+userAccountantY1
+
+9. 櫃檯人員
+acc：
+alphaUserAdmin2
+
+10. 課程管理
+acc：
+rootManagerZ9
+
+11. 無
+acc：
+softlake998
+
+12. 無
+acc：
+dreamWolf121
+
+13. 無
+acc：
+AlphaZone82
+
+14. 無
+acc：
+luckycat123456
+
+15. 無
+acc：
+userZebra021
+
+16. 無
+acc：
+sparkHorse81
+
+17. 無
+acc：
+adminxyt007
+
+18. 無
+acc：
+NightFoxCode33
+
+19. 無
+acc：
+goldHammer1001
+
+20. 無
+acc：
+velvetRoad99
